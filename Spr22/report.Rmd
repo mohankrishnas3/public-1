@@ -12,11 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Git, GitHub
 
 1. *What is your GitHub username?*
-<br/>
 mohankrishnas3 is the username of my github
 
 2. *What is the URL of your remote GitHub repo (created through Mr. Kennedy's exercises)?*
-<br/> 
 "https://github.com/mohankrishnas3/remoterepo" is the URL of my remote Github
 ## R
 
