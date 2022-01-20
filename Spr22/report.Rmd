@@ -26,21 +26,20 @@ library(tidyverse)
 ## R Markdown 
 
 1. *Create a bulleted list with at least 3 items*
-<br/>
 ### Today's shopping list:
 
 * Onion
 * Tamoto
 * Egg
 * Orange
-<br/>
+
 2. *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph does not have to make sense.*
-<br/>
+
 This is *italics*, this is **bold**, this is ***bold italics***, this has r code inside it `r plot(cars)`
 [Google.com](http://www.google.com). This paragraph has italics, bold, bold italics, code and link in it. A *botanical* garden or ***botanic garden*** is a garden dedicated to the collection, cultivation, preservation and display of a wide range of plants labelled with their botanical names. It may contain specialist plant collections such as cacti and other succulent plants, herb gardens , plants from particular parts of the world, and so on; there may be greenhouses, shadehouses, again with special **collections** such as tropical plants, alpine plants, or other **exotic plants**. Visitor services at a botanical garden might include tours, educational displays, art exhibitions, book rooms, open-air theatrical and musical performances, and other entertainment.
 
 3. *Create a level 3 heading*
-<br/>
+
 ### This is level 3 heading
 
 ## R 
